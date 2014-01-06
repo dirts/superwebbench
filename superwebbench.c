@@ -271,7 +271,7 @@ main(int argc, char *argv[])
 	/* Copyright */
         printf(	"\nSuperWebBench - Advanced Simple Web Benchmark "PROGRAM_VERSION"\n"
                 "Copyright (c) Radim Kolar 1997-2004, GPL Open Source Software.\n"
-		"Modified By Davelv 2011-11-03\n"
+		"Modified By SuperMan 2010-05-18\n"
                );
 	//check resourse limits
 	if ( (ret=resource_set(para.clients)) <0 )
